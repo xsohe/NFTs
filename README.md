@@ -1,6 +1,4 @@
 # NFTs
 </hr>
-## see project
-</br>
-<a href="https://xsohe.github.io/NFTs/">https://xsohe.github.io/NFTs/</a>
+<a href="https://xsohe.github.io/NFTs/">See Project/</a>
 <img src="/NFTs.png" alt="NFTs">
