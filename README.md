@@ -1,3 +1,5 @@
 # NFTs
 ## How To Run
-``npm run dev``
+``bash
+npm run dev
+bash``
